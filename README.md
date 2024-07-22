@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js and Django**
 
-- 👯 I’m looking to collaborate on **on any type of projects**
+- 👯 I’m looking to collaborate **on any type of projects**
 
 - 🤝 I’m looking for help with **python**
 
